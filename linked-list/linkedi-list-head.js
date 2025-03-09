@@ -153,20 +153,22 @@ class Node {
     
   }
   
-  const list = new LinkedList()
+  //Commenting for testing purposes
   
-  console.log("list is empty? ", list.isEmpty())
-  console.log("list size ", list.getSize())
+  // const list = new LinkedList()
   
-  list.append(10)
-  list.append(20)
-  list.append(30)
+  // console.log("list is empty? ", list.isEmpty())
+  // console.log("list size ", list.getSize())
   
-  console.log(list.getSize())
-  list.print()
+  // list.append(10)
+  // list.append(20)
+  // list.append(30)
   
-  console.log(list.search(30))
-  list.reverse()
-  list.print()
+  // console.log(list.getSize())
+  // list.print()
+  
+  // console.log(list.search(30))
+  // list.reverse()
+  // list.print()
   
   
